@@ -1,16 +1,14 @@
-## Hi there 👋
-
 <!--
 **gablmao/gablmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## ✨👋 welcome to my very (not) detailed portfolio 👋✨
+Currently studying Computer Science at Middlesex University.
+Currently working on:
+- some shitty game
+- learning machine learning and neural networks
+
+Aiming to make good games (surely).
+Aiming to build my portfolio (surely x2).
+
+click this [link](https://www.google.com/)
+[img]
