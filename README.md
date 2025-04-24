@@ -3,11 +3,10 @@
 -->
 # ✨👋 welcome to my very (not) detailed portfolio 👋✨
 
-<!-- ![uyy nationality](https://github.com/gablmao/gablmao/blob/main/img/Fm60bBnWAAI63NM.jpg)  -->
 Currently studying Computer Science at Middlesex University.  
 Currently working on:
-- game development
-- website
+- learning game development
+- personal website
 
 Skills learned since starting programming in 2020 (no particular order):
 - Proficient Front-end design and development 📝
@@ -19,6 +18,4 @@ Skills learned since starting programming in 2020 (no particular order):
 - Basic Cleaning & Maintenance of computers/devices
 - Basic understanding of Linux and the Terminal (might revisit)
   - reviving a 2009 macbook pro with Mint
-- Basic knowledge on Networking 
-
-My website: soonTM
+- Basic knowledge on Networking
