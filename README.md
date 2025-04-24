@@ -1,7 +1,7 @@
 <!--
 **gablmao/gablmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# ✨👋 welcome to my very (not) detailed portfolio 👋✨
+> # ✨👋 welcome to my amazing (not) profile 👋✨
 
 Currently studying Computer Science at Middlesex University.  
 Currently working on:
