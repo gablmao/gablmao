@@ -3,7 +3,7 @@
 -->
 > # ✨👋 welcome to my amazing (not) profile 👋✨
 
-Currently studying Computer Science at Middlesex University.  
+Graduated in Computer Science at Middlesex University as of 26th July 2025.  
 Currently working on:
 - learning game development
 - personal website
